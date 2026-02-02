@@ -121,4 +121,4 @@ btn_equals = tk.Button(root, text="=", command=eval_calculation,
                        width=5, font=("Arial", 14))
 btn_equals.grid(row=6, column=4)
 
-# root.mainloop()
+root.mainloop()
